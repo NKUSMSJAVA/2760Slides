@@ -1,2 +1,3 @@
 # 2760Slides
-Slides of class 2760
+Slides of JAVA2760  
+Author: Prof. B.Xiang 
